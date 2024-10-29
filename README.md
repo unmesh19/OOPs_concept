@@ -39,7 +39,7 @@ The `Polymorphism` file illustrates how different classes can implement the same
 
 ## Abstraction
 
-The `Abstraction` file (to be added) will encapsulate complex logic in abstract classes and interfaces, allowing users to work with simplified representations of the objects without exposing all the details.
+The `Abstraction` file will encapsulate complex logic in abstract classes and interfaces, allowing users to work with simplified representations of the objects without exposing all the details.
 
 ## Usage
 
