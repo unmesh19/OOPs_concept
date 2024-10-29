@@ -50,11 +50,3 @@ python filename.py
 ```
 
 Replace `filename.py` with the appropriate file name to see the output of that OOP concept.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improving the code or expanding the examples, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
